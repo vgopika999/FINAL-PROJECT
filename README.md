@@ -18,22 +18,27 @@ The primary challenge addressed in this project was to analyze SpaceX's historic
   - Histogram: The majority of launches fell within the 0-5000 kg payload mass range, with a peak around 2000 kg.
   - Scatter Plot: Launch site CCAFS SLC-40 exhibited the highest success rate among launch sites.
   - Bar Chart: Successful launches tended to have a slightly higher average payload mass compared to failed launches.
+  - ![EDA Visualization Results](https://github.com/vgopika999/FINAL-PROJECT/blob/main/EDA%20visualisation%20result.png)
 
 - **EDA with SQL Results:**
   - SQL Query: Count of Successful Launches by Launch Site highlighted the success rates of different launch sites.
   - SQL Query: Average Payload Mass by Launch Outcome provided insights into the relationship between payload mass and launch success.
+  - ![EDA SQL Results](https://github.com/vgopika999/FINAL-PROJECT/blob/main/EDA%20SQL%20results.png)
 
 - **Interactive Map with Folium Results:**
   - Folium Map: The geographical distribution of launch sites was visualized, showcasing locations and their proximity to coastlines and highways.
+  - ![Folium Map](https://github.com/vgopika999/FINAL-PROJECT/blob/main/Folium%20map.png)
 
 - **Plotly Dash Dashboard Results:**
   - Dashboard: An interactive interface was provided to explore various aspects of the SpaceX launch data, allowing users to interact with and analyze the data dynamically.
+  - ![Dash Result](https://github.com/vgopika999/FINAL-PROJECT/blob/main/Dash%20result.png)
 
 - **Predictive Analysis (Classification) Results:**
   - Logistic Regression: Achieved an accuracy of 85%.
   - SVM: Achieved an accuracy of 82%.
   - Decision Trees: Achieved an accuracy of 78%.
   - Best Performing Model: Logistic Regression emerged as the best performing model with an accuracy of 85%.
+  - ![Predictive Analysis Results](https://github.com/vgopika999/FINAL-PROJECT/blob/main/Predictive%20analysis%20result.png)
 
 #### Conclusion
 The "Exploratory Data Analysis and Predictive Analysis of SpaceX Launch Data" project yielded valuable insights into SpaceX's launch operations. Through thorough data exploration and predictive modeling, we identified patterns in launch success rates, analyzed factors affecting payload mass, and visualized the geographical distribution of launch sites. The interactive visualizations and predictive models developed offer a robust framework for understanding and predicting SpaceX launch outcomes. This project serves as a testament to the power of data science in extracting actionable insights from complex datasets.
