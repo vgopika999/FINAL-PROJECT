@@ -1,4 +1,4 @@
-### Project: Exploratory Data Analysis and Predictive Analysis of SpaceX Launch Data
+### SpaceX Falcon 9 Launch Data Analysis Report
 
 #### Introduction
 SpaceX, a prominent player in the aerospace industry, provided a rich dataset that prompted the "Exploratory Data Analysis and Predictive Analysis of SpaceX Launch Data" project. This initiative aimed to uncover insights into critical aspects of SpaceX's operations, such as their launch success rates, factors influencing payload mass, and the geographical distribution of launch sites. Through a combination of data exploration and predictive modeling, the project sought to gain a comprehensive understanding of SpaceX's activities.
@@ -32,6 +32,7 @@ The primary challenge addressed in this project was to analyze SpaceX's historic
 - **Plotly Dash Dashboard Results:**
   - Dashboard: An interactive interface was provided to explore various aspects of the SpaceX launch data, allowing users to interact with and analyze the data dynamically.
   - ![Dash Result](https://github.com/vgopika999/FINAL-PROJECT/blob/main/Dash%20result.png)
+  - https://app.datasquirrel.ai/project/78b45d6d-1343-4b0b-9579-709cb20d9a27/edit
 
 - **Predictive Analysis (Classification) Results:**
   - Logistic Regression: Achieved an accuracy of 85%.
